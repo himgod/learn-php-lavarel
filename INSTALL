@@ -1,0 +1,9 @@
+1. 学习Laravel第一步便是安装，其中安装推荐使用Composer，类似于python的Bundle等是包管理器，解决依赖关系。
+
+２.Composer安装完成后（通常要求php设置好mcrypt,ssl等），切换到想要存放网站目录的地方，执行如下命令：
+    composer create-project laravel/laravel project_name
+３. 这个过程可能会比较漫长，因为下载和解析依赖关系的过程，之后便会出现project_name的目录。
+４. 浏览器访问project_name/public目录，可能会出现Error in exception handler，因为project_name/app/storage目录的权限，设置为777或者755皆可。（public才是存放网页的根目录）
+５. 结果显示You hava arrived.
+
+注：不想安装镜像的同学，使用Laravel的神器：https://github.com/overtrue/latest-laravel
