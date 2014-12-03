@@ -1,9 +1,10 @@
-1. Ñ§Ï°LaravelµÚÒ»²½±ãÊÇ°²×°£¬ÆäÖĞ°²×°ÍÆ¼öÊ¹ÓÃComposer£¬ÀàËÆÓÚpythonµÄBundleµÈÊÇ°ü¹ÜÀíÆ÷£¬½â¾öÒÀÀµ¹ØÏµ¡£
+1. å­¦ä¹ Laravelç¬¬ä¸€æ­¥ä¾¿æ˜¯å®‰è£…ï¼Œå…¶ä¸­å®‰è£…æ¨èä½¿ç”¨Composerï¼Œç±»ä¼¼äºpythonçš„Bundleç­‰æ˜¯åŒ…ç®¡ç†å™¨ï¼Œè§£å†³ä¾èµ–å…³ç³»ã€‚
 
-£².Composer°²×°Íê³Éºó£¨Í¨³£ÒªÇóphpÉèÖÃºÃmcrypt,sslµÈ£©£¬ÇĞ»»µ½ÏëÒª´æ·ÅÍøÕ¾Ä¿Â¼µÄµØ·½£¬Ö´ĞĞÈçÏÂÃüÁî£º
+ï¼’.Composerå®‰è£…å®Œæˆåï¼ˆé€šå¸¸è¦æ±‚phpè®¾ç½®å¥½mcrypt,sslç­‰ï¼‰ï¼Œåˆ‡æ¢åˆ°æƒ³è¦å­˜æ”¾ç½‘ç«™ç›®å½•çš„åœ°æ–¹ï¼Œæ‰§è¡Œå¦‚ä¸‹å‘½ä»¤ï¼š
     composer create-project laravel/laravel project_name
-£³. Õâ¸ö¹ı³Ì¿ÉÄÜ»á±È½ÏÂş³¤£¬ÒòÎªÏÂÔØºÍ½âÎöÒÀÀµ¹ØÏµµÄ¹ı³Ì£¬Ö®ºó±ã»á³öÏÖproject_nameµÄÄ¿Â¼¡£
-£´. ä¯ÀÀÆ÷·ÃÎÊproject_name/publicÄ¿Â¼£¬¿ÉÄÜ»á³öÏÖError in exception handler£¬ÒòÎªproject_name/app/storageÄ¿Â¼µÄÈ¨ÏŞ£¬ÉèÖÃÎª777»òÕß755½Ô¿É¡££¨public²ÅÊÇ´æ·ÅÍøÒ³µÄ¸ùÄ¿Â¼£©
-£µ. ½á¹ûÏÔÊ¾You hava arrived.
+ï¼“. è¿™ä¸ªè¿‡ç¨‹å¯èƒ½ä¼šæ¯”è¾ƒæ¼«é•¿ï¼Œå› ä¸ºä¸‹è½½å’Œè§£æä¾èµ–å…³ç³»çš„è¿‡ç¨‹ï¼Œä¹‹åä¾¿ä¼šå‡ºç°project_nameçš„ç›®å½•ã€‚
+ï¼”. æµè§ˆå™¨è®¿é—®project_name/publicç›®å½•ï¼Œå¯èƒ½ä¼šå‡ºç°Error in exception handlerï¼Œ
+        å› ä¸ºproject_name/app/storageç›®å½•çš„æƒé™ï¼Œè®¾ç½®ä¸º777æˆ–è€…755çš†å¯ã€‚ï¼ˆpublicæ‰æ˜¯å­˜æ”¾ç½‘é¡µçš„æ ¹ç›®å½•ï¼‰
+ï¼•. ç»“æœæ˜¾ç¤ºYou hava arrived.
 
-×¢£º²»Ïë°²×°¾µÏñµÄÍ¬Ñ§£¬Ê¹ÓÃLaravelµÄÉñÆ÷£ºhttps://github.com/overtrue/latest-laravel
+æ³¨ï¼šä¸æƒ³å®‰è£…é•œåƒçš„åŒå­¦ï¼Œä½¿ç”¨Laravelçš„ç¥å™¨ï¼šhttps://github.com/overtrue/latest-laravel
